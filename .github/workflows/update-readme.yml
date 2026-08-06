@@ -1,13 +1,16 @@
 name: Update README
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  test-workflow:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,14 +19,72 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Display Repository Information
+      - name: Generate Recently Solved Section
         run: |
-          echo "Repository: ${{ github.repository }}"
-          echo "Branch: ${{ github.ref_name }}"
-          echo "Triggered by: ${{ github.actor }}"
-          echo "Workflow is running successfully."
+          python3 << 'EOF'
+          import os
+          import re
 
-      - name: Show Latest Commits
+          # -----------------------------
+          # Find all problem folders
+          # -----------------------------
+          folders = []
+
+          for item in os.listdir("."):
+              if os.path.isdir(item):
+                  if re.match(r"^\d{4}-", item):
+                      folders.append(item)
+
+          # -----------------------------
+          # Sort by latest modification
+          # -----------------------------
+          folders.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+
+          latest = folders[:3]
+
+          lines = []
+          lines.append("| # | Problem |")
+          lines.append("|---|---------|")
+
+          for i, folder in enumerate(latest, 1):
+              name = folder.replace("-", " ", 1)
+              lines.append(f"| {i} | {name} |")
+
+          lines.append("")
+          lines.append("_Last updated automatically by GitHub Actions._")
+
+          section = "\n".join(lines)
+
+          with open("README.md","r",encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r'<!-- START_RECENT_SOLUTIONS -->.*?<!-- END_RECENT_SOLUTIONS -->'
+
+          replacement = (
+              "<!-- START_RECENT_SOLUTIONS -->\n\n"
+              + section +
+              "\n\n<!-- END_RECENT_SOLUTIONS -->"
+          )
+
+          updated = re.sub(pattern, replacement, readme, flags=re.S)
+
+          with open("README.md","w",encoding="utf-8") as f:
+              f.write(updated)
+
+          print("README updated successfully.")
+          EOF
+
+      - name: Commit README if changed
         run: |
-          echo "===== Latest 5 Commits ====="
-          git log --oneline -5
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No README changes."
+            exit 0
+          fi
+
+          git commit -m "Update Recently Solved section"
+          git push
