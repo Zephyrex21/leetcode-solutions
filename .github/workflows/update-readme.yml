@@ -21,5 +21,7 @@ jobs:
           echo "Triggered by: ${{ github.actor }}"
           echo "Workflow is running successfully."
 
-      - name: List Repository Files
-        run: ls -la
+      - name: Show Latest Commits
+        run: |
+          echo "===== Latest 5 Commits ====="
+          git log --oneline -5
