@@ -12,7 +12,13 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 
 <!-- START_RECENT_SOLUTIONS -->
 
-_No recent solutions yet._
+| # | Problem |
+|---|---------|
+| 1 | 1752 check-if-array-is-sorted-and-rotated |
+| 2 | 1991 find-the-middle-index-in-array |
+| 3 | 0876 middle-of-the-linked-list |
+
+_Last updated automatically by GitHub Actions._
 
 <!-- END_RECENT_SOLUTIONS -->
 
