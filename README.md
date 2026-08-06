@@ -8,6 +8,15 @@ This repository was connected to the LeetCode GitHub extension after I had alrea
 
 From this point onward, **every new accepted LeetCode solution will be automatically added to this repository immediately after submission**, ensuring that the repository remains up to date.
 
+## Recently Solved
+
+<!-- START_RECENT_SOLUTIONS -->
+
+_No recent solutions yet._
+
+<!-- END_RECENT_SOLUTIONS -->
+
+
 ## Repository Structure
 
 Each problem is organized using the following format:
