@@ -14,9 +14,9 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 
 | # | Problem |
 |---|---------|
-| 1 | 1910 remove-all-occurrences-of-a-substring |
-| 2 | 1295 find-numbers-with-even-number-of-digits |
-| 3 | 1991 find-the-middle-index-in-array |
+| 1 | 1752 check-if-array-is-sorted-and-rotated |
+| 2 | 1991 find-the-middle-index-in-array |
+| 3 | 1249 minimum-remove-to-make-valid-parentheses |
 
 _Last updated automatically by GitHub Actions._
 
