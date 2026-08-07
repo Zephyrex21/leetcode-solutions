@@ -60,3 +60,19 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 
 **GitHub:** https://github.com/Zephyrex21  
 **LeetCode:** https://leetcode.com/u/Zephyrex21/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+<!---LeetCode Topics End-->
