@@ -4,7 +4,7 @@ A curated collection of my LeetCode solutions, maintained as part of my continuo
 
 ## Repository Note
 
-This repository was connected to the LeetCode GitHub extension after I had already solved several problems. Therefore, **76 previously solved problems were backfilled in a single batch** to preserve my earlier work and maintain a complete archive of my solutions.
+This repository was connected to the LeetCode GitHub extension after I had already solved several problems. Therefore, **77 previously solved problems were backfilled in a single batch** to preserve my earlier work and maintain a complete archive of my solutions.
 
 From this point onward, **every new accepted LeetCode solution will be automatically added to this repository immediately after submission**, ensuring that the repository remains up to date.
 
