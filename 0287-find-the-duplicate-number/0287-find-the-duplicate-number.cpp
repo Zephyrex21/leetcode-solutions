@@ -2,16 +2,23 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
         
-        unordered_set<int> seen;
+        // Phase-1 Finding the meeting point
+        int slow = nums[0];
+        int fast = nums[0];
 
-        for( int x : nums ){
-            if( seen.count(x)){
-                return x;
-            }
-
-            seen.insert(x);
+        do{
+            slow = nums[slow];
+            fast = nums[ nums[fast] ];
         }
+        while( slow != fast );
 
-        return -1;
+        //Phase-2 finding the starting point of the cycle
+        slow = nums[0];
+
+        while( slow != fast ){
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+        return slow;
     }
 };
