@@ -16,7 +16,7 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 |---|---------|
 | 1 | 1752 check-if-array-is-sorted-and-rotated |
 | 2 | 1991 find-the-middle-index-in-array |
-| 3 | 1249 minimum-remove-to-make-valid-parentheses |
+| 3 | 0987 vertical-order-traversal-of-a-binary-tree |
 
 _Last updated automatically by GitHub Actions._
 
