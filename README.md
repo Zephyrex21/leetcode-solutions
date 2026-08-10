@@ -66,6 +66,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -85,6 +86,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
