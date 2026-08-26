@@ -116,4 +116,5 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
