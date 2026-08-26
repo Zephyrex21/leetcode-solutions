@@ -9,10 +9,10 @@ public:
             int lastdigit = x%10;
             x = x/10; 
 
-            if( rev > INT_MAX/10 || rev == INT_MAX && lastdigit > 7 ){
+            if( rev > INT_MAX/10 ){
                 return 0;
             }
-            if( rev < INT_MIN/10 || rev == INT_MIN && lastdigit < -8 ){
+            if( rev < INT_MIN/10 ){
                 return 0;
             }
 
