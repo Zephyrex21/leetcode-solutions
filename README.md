@@ -87,6 +87,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+| [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -117,4 +118,8 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
