@@ -14,9 +14,9 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 
 | # | Problem |
 |---|---------|
-| 1 | 0342 power-of-four |
-| 2 | 1752 check-if-array-is-sorted-and-rotated |
-| 3 | 0567 permutation-in-string |
+| 1 | 2525 categorize-box-according-to-criteria |
+| 2 | 1991 find-the-middle-index-in-array |
+| 3 | 1752 check-if-array-is-sorted-and-rotated |
 
 _Last updated automatically by GitHub Actions._
 
