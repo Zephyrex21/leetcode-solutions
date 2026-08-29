@@ -14,9 +14,9 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 
 | # | Problem |
 |---|---------|
-| 1 | 2525 categorize-box-according-to-criteria |
-| 2 | 1910 remove-all-occurrences-of-a-substring |
-| 3 | 1991 find-the-middle-index-in-array |
+| 1 | 1752 check-if-array-is-sorted-and-rotated |
+| 2 | 2525 categorize-box-according-to-criteria |
+| 3 | 1910 remove-all-occurrences-of-a-substring |
 
 _Last updated automatically by GitHub Actions._
 
