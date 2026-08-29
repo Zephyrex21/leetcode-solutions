@@ -73,6 +73,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
