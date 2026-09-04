@@ -3,7 +3,7 @@ public:
     vector<int> rearrangeArray(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> ans(n,0);
+        vector<int> ans(n);
 
         int posIndex = 0 ;
         int negIndex = 1;
