@@ -14,9 +14,9 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 
 | # | Problem |
 |---|---------|
-| 1 | 2525 categorize-box-according-to-criteria |
-| 2 | 2149 rearrange-array-elements-by-sign |
-| 3 | 1752 check-if-array-is-sorted-and-rotated |
+| 1 | 2149 rearrange-array-elements-by-sign |
+| 2 | 2525 categorize-box-according-to-criteria |
+| 3 | 1991 find-the-middle-index-in-array |
 
 _Last updated automatically by GitHub Actions._
 
