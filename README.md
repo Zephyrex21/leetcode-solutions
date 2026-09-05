@@ -71,6 +71,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -175,6 +176,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -184,5 +186,6 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
