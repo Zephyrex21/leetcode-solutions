@@ -5,8 +5,8 @@ public:
         int n = matrix.size();
 
         //Step-1 To transpose the matrix
-        for ( int i = 0 ; i < n ; i++){
-            for ( int j = i ; j < n ; j++){
+        for ( int i = 0 ; i < n-1 ; i++){
+            for ( int j = i+1 ; j < n ; j++){
                 swap( matrix[i][j] , matrix[j][i] );
             }
         }
