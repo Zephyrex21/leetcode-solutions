@@ -80,6 +80,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -132,6 +133,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -173,10 +176,12 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
