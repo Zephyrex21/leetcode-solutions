@@ -80,6 +80,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -146,6 +147,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0009-palindrome-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -201,4 +203,24 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
