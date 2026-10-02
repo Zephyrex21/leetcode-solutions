@@ -103,6 +103,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,11 +152,13 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
