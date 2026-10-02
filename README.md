@@ -66,6 +66,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -156,6 +157,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -229,4 +231,8 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
