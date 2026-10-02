@@ -140,6 +140,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -182,6 +184,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0205-isomorphic-strings](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -193,6 +196,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,4 +249,12 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
