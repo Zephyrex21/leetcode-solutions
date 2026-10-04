@@ -92,6 +92,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Zephyrex21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0507-perfect-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Zephyrex21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
