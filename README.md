@@ -16,7 +16,7 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 |---|---------|
 | 1 | 3875 construct-uniform-parity-array-i |
 | 2 | 2525 categorize-box-according-to-criteria |
-| 3 | 2149 rearrange-array-elements-by-sign |
+| 3 | 2396 strictly-palindromic-number |
 
 _Last updated automatically by GitHub Actions._
 
