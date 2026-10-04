@@ -90,6 +90,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Zephyrex21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -103,6 +104,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0119-pascals-triangle-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Zephyrex21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
@@ -266,4 +269,16 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
