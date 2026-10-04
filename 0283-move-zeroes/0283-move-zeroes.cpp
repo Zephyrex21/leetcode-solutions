@@ -2,22 +2,23 @@ class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
         int n = nums.size();
-        vector<int> temp;
 
-        for( int i = 0 ; i < n ; i++ ){
-            if( nums[i] != 0 ){
-                temp.push_back( nums[i] );
+        // j = position where next non-zero should go
+        int j = 0;
+
+        // Place all non-zero elements at the front
+        for (int i = 0; i < n; i++) {
+
+            if (nums[i] != 0) {
+                nums[j] = nums[i];
+                j++;
             }
         }
 
-        int nz = temp.size();
-        for( int i = 0 ; i < nz ; i++ ){
-            nums[i] = temp[i];
+        // Fill remaining positions with zeroes
+        while (j < n) {
+            nums[j] = 0;
+            j++;
         }
-
-        for( int i = nz ; i<n ; i++ ){
-            nums[i] = 0;
-        }
-
     }
 };
