@@ -77,6 +77,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0056-merge-intervals](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -97,6 +98,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0053-maximum-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
