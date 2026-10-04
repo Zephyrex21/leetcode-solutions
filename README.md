@@ -67,6 +67,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -110,6 +111,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -138,6 +140,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
