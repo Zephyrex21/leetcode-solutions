@@ -91,6 +91,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -134,6 +135,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0645-set-mismatch](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
