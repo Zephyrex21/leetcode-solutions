@@ -93,6 +93,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0493-reverse-pairs](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0704-binary-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -133,6 +134,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0704-binary-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
