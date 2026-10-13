@@ -111,6 +111,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [1552-magnetic-force-between-two-balls](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Zephyrex21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -275,6 +276,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0048-rotate-image](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
