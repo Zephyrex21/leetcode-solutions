@@ -226,6 +226,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0451-sort-characters-by-frequency](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0796-rotate-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -360,4 +361,12 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
