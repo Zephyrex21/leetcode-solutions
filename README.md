@@ -15,8 +15,8 @@ From this point onward, **every new accepted LeetCode solution will be automatic
 | # | Problem |
 |---|---------|
 | 1 | 3875 construct-uniform-parity-array-i |
-| 2 | 2525 categorize-box-according-to-criteria |
-| 3 | 2396 strictly-palindromic-number |
+| 2 | 2643 row-with-maximum-ones |
+| 3 | 2525 categorize-box-according-to-criteria |
 
 _Last updated automatically by GitHub Actions._
 
