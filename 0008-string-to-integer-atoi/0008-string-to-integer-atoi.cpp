@@ -1,7 +1,7 @@
 class Solution {
 public:
     int myAtoi(string s) {
-       int i = 0;
+        int i = 0;
         int n = s.size();
 
         // 1. Skip leading spaces
@@ -11,7 +11,6 @@ public:
 
         // 2. Read the sign
         int sign = 1;
-
         if (i < n && s[i] == '-') {
             sign = -1;
             i++;
@@ -21,10 +20,7 @@ public:
         }
 
         // 3. Set the allowed magnitude
-        long long limit = (sign == 1)
-                          ? INT_MAX
-                          : -(long long)INT_MIN;
-
+        long long limit = (sign == 1) ? INT_MAX : -(long long)INT_MIN;
         long long num = 0;
 
         // 4. Read digits and prevent overflow
