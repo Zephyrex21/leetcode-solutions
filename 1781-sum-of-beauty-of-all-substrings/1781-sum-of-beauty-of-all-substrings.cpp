@@ -5,14 +5,12 @@ public:
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
+            int freq[26] = {0};
+
             for (int j = i; j < n; j++) {
 
-                int freq[26] = {0};
-
-                // Count frequencies of this substring
-                for (int k = i; k <= j; k++) {
-                    freq[s[k] - 'a']++;
-                }
+                // Update frequency of the new character
+                freq[s[j] - 'a']++;
 
                 int maxFreq = 0;
                 int minFreq = INT_MAX;
@@ -25,6 +23,7 @@ public:
                     }
                 }
 
+                // Add beauty of the current substring
                 ans += maxFreq - minFreq;
             }
         }
