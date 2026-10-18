@@ -82,6 +82,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0056-merge-intervals](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -177,6 +178,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Pigeonhole Principle
@@ -395,4 +397,5 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
