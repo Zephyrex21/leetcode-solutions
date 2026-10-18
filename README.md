@@ -221,6 +221,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Zephyrex21/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -246,6 +247,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
