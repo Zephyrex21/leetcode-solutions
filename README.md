@@ -119,6 +119,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -226,6 +227,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0008-string-to-integer-atoi](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -382,10 +384,15 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
