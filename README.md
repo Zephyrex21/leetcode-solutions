@@ -96,6 +96,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -407,4 +408,5 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0040-combination-sum-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
