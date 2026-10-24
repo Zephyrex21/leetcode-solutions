@@ -130,6 +130,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0055-jump-game](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -237,6 +238,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -408,5 +410,6 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0040-combination-sum-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
