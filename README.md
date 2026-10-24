@@ -85,6 +85,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -237,6 +238,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0013-roman-to-integer](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -308,6 +310,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0054-spiral-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Zephyrex21/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Prefix Sum
@@ -409,7 +412,12 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0039-combination-sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
