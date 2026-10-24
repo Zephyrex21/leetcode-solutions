@@ -74,6 +74,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | [0031-next-permutation](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -266,6 +267,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0037-sudoku-solver](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -307,6 +309,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -410,6 +413,7 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
@@ -425,5 +429,10 @@ This repository is continuously updated as I solve new problems on LeetCode. Eve
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Zephyrex21/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
